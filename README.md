@@ -1,1 +1,2 @@
-# about-talim-ai
+# TaLim AI 
+### Your Personalized Educational AI Assistant
